@@ -1,5 +1,5 @@
 { pkgs }: {
-    deps = [
-        pkgs.bashInteractive
-    ];
+	deps = [
+    pkgs.nodejs-16_x
+	];
 }
